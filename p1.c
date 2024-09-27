@@ -1,4 +1,4 @@
-//solution of problem 1
+//solution of problem 1 (iced tea coffee problem)
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
